@@ -35,6 +35,7 @@
     },
     "dependencies": {
         "request": "2.9.x",
+        "node-xml2json": "^1.0.0",
         "jstoxml": "0.1.x"
     },
     "devDependencies": {
